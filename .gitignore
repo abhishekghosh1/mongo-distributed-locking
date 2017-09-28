@@ -1,0 +1,34 @@
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+/classes/**
+
+######################
+# Gradle
+######################
+.gradle/**
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+
+######################
+# Directories
+######################
+/out/
+/build/
+/build/**
+/target/
+src/main/resources/
+src/test/resources/
